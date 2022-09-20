@@ -1,0 +1,105 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-family: 'source sans pro', Calibri, Tahoma, Sans-serif;
+    font-size: 20px;
+}
+
+.infophoto{
+    height: 183px;
+    margin-bottom: 80px;
+    background: #104DD7;
+    color: white;
+    border-radius: 20px;
+    text-indent: 40px;
+    line-height: 1px;
+    font-size: 25px;
+}
+
+.info{
+    float: left;
+}
+
+.photo{
+    float: right;
+    border-radius: 20px;
+    background-image: linear-gradient(direction, color-stop1, color-stop2,);
+}
+
+.section{
+    margin-bottom: 30px;
+    text-align: justify;
+}
+
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size-30px;
+}
+
+.sec-droite{
+    margin-left: 370px;
+    margin-top: 40px;
+}
+
+h2{
+    font-size: 20px;
+    color: white;
+    border-bottom: 10px solid #104DD7;
+    background-color: #104DD7;
+    border-radius: -40;
+    text-align: center;
+}
+
+.poste{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 23px;
+    color: #FBA309;
+}
+
+.Date{
+    font-size: 22px;
+    color: #959594;
+}
+
+#forma-gauche p{
+    margin-bottom: 5px;
+}
+
+.sec-g{
+    float: left;
+    font-weight: bold;
+    font-size-30px;
+    color: #FBA309
+}
+
+.sec-m{
+    margin-left: 290px;
+    margin-top: 35px;
+    font-weight: bold;
+    color: #FBA309
+}
+
+.sec-d{
+    margin-left: 460px;
+    margin-top: -90px;
+    text-align: right;
+    font-weight: bold;
+    color: #FBA309
+}
+
+.cert{
+    color: #FBA309;
+}
+
+.nom{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+img{
+    border-style: solid;
+    border-radius: 10px;
+    font-size: 200px;
+}
